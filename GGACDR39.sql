@@ -95,3 +95,4 @@ END;
 
 
 show parameter  goldengate
+SELECT * FROM v$database;
