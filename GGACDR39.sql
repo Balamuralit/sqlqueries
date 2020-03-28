@@ -94,4 +94,4 @@ END;
 /
 
 
-show parameter  gold
+show parameter  goldengate
